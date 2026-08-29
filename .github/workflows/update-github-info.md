@@ -1,7 +1,7 @@
 ---
 name: update-github-info
 description: Draft updates for Mona's GitHub Info site using official GitHub sources and Mona's notes.
-model: sonnet-6x
+model: gpt-4.1
 on:
   workflow_dispatch:
   schedule:
